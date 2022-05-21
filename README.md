@@ -1,7 +1,7 @@
 # DDT-extraction-script
 A simple script that helps faster modding of Age of Mithology by extracting and recompiling multiple ddt texture files at time
 
-Testesd, the script works as intended
+Tested, the script works as intended
 
 [More information here](https://steamcommunity.com/workshop/discussions/-1/558755529558828765/?appid=266840)
 
