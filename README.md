@@ -8,7 +8,7 @@ Tested, the script works as intended
 ## Advantages
 - Simple
 - Process multiple files at once
-- Does not overwrite edited files
+- It does not overwrite edited files
 ## How to
 - Create an empty folder and place and put the script into it.
 - Get the texture tools: They are at the root of the game folder, copy the direcory named "tools" on the script folder.
